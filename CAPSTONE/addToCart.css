@@ -1,0 +1,30 @@
+.container {
+
+}
+
+button {
+    border: 2px;
+    background: rgb(255, 167, 3);
+    font-weight: bold;
+    margin: 20px;
+    padding: 5px 10px;
+}
+
+button:hover {
+
+  box-shadow: 0 0 5px black;
+}
+
+.cart {
+    width: 250px;
+    float:right ;
+    text-align: center;
+    border: 1px solid white;
+    overflow-y: scroll;
+    height: 100%;
+
+
+}
+.cartImg {
+    width: 200px;
+}
